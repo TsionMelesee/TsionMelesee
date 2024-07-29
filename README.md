@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Tsion Melese!  
-🔭 I’m currently working on Android and IOS Mobile Projects  
+🔭 I’m currently working on website and Flutter app development.    
 🌱 I’m currently learning machine learning and firebase.   
 👯 I’m looking to collaborate on Mobile and Web development.   
 📫 How to reach me: tsionmelese526@gmail.com   
