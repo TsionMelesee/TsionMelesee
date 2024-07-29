@@ -1,10 +1,10 @@
-### 👋 Hi, I'm Tsion Melese!
-🔭 I’m currently working on Android and IOS Mobile Projects
-🌱 I’m currently learning machine learning and firebase. 
-👯 I’m looking to collaborate on Mobile and Web development.
-📫 How to reach me: tsionmelese526@gmail.com
+### 👋 Hi, I'm Tsion Melese!  
+🔭 I’m currently working on Android and IOS Mobile Projects  
+🌱 I’m currently learning machine learning and firebase.   
+👯 I’m looking to collaborate on Mobile and Web development.   
+📫 How to reach me: tsionmelese526@gmail.com   
 
-About Me
+About Me  
 Hi, I'm Tsion Melese, a software engineering student at Addis Ababa University. I have a strong passion for coding, mobile, and web development. I'm currently working on Android and iOS mobile projects. Additionally, I’m diving into the world of machine learning and AI-related technologies, as these fields greatly interest me.
 
 
